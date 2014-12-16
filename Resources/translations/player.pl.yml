@@ -92,8 +92,8 @@ required field: Pole wymagane
 message sent: E-mail wysłany
 Before contacting you operator: Przed skontaktowaniem z konsultantem,<br/>Prosimy podać kilka informacji:
 No operator is available for the moment: Kontultant nie jest dostępny w tej chwili.
-Please leave me a message: Proszę zostawić wiadomość
-Please leave a message: Proszę zostawić wiadomość
+Please leave me a message: Zostaw wiadomość
+Please leave a message: Zostaw wiadomość
 Do you Want to start an audio call with me: Czy chcesz rozpocząć rozmowę audio?
 Do you Want to start a video call with me: Czy chcesz rozpocząć rozmowę video?
 e-mail invalid: Błędny adres e-mail
@@ -101,7 +101,7 @@ close webpage cause end of the discussion: Zamknięta strona www przyczyną zako
 survey sent: Ankieta wysłana
 agent hangup: Konsultant zakończył rozmowę.
 agent unavailable: Konsultant jest niedostępny.
-Agent dont answer call: Przepraszamy, KOnsultant nie mógł odpowiedzieć.
+Agent dont answer call: Przepraszamy, Konsultant nie mógł odpowiedzieć.
 Ongoing discussion: Rozmowa w trakcie
 Click here to enlarge: Kliknij tutaj, aby powiększyć
 Give us your feedback: Przekaż nam swoją opinię
@@ -123,7 +123,7 @@ conversation_send: E-mail wysłany
 # default values for new module
 grabber_advisor_1: Jesteśmy tutaj aby pomagać.
 grabber_advisor_2: Twój konsultant na żywo
-grabber_message_1: W czym mogę pomóc?
+grabber_message_1: Pomoc online
 grabber_message_2: Zostaw wiadomość
 invitation_baloon: "Dzień Dobry!\nW czym mogę pomóc?"
 invitation_baloon_several_agents: "Dzień Dobry!\nKonsultant jest teraz dostępny, aby odpowiedzieć na Twoje pytania."
@@ -132,8 +132,8 @@ message_baloon: Dzień dobry! Zostaw wiadomość, skontaktujemy się z Tobą
 fall_back_window_default: Nasz konsultant jest niedostępny w tej chwili, prosimy spróbować później.
 back to list: Powrót do listy
 denied_missed_call_msg: Przepraszamy, nie możemy w tej chwili odebrać telefonu. Proszę zostaw wiadomość.
-all_agent_msg_1: Przepraszamy, nasi konsultanci są niedostępni
-all_agent_msg_2: Proszę zostawić wiadomość
+all_agent_msg_1: Skontaktujemy się z Tobą
+all_agent_msg_2: Zostaw wiadomość
 agent-deny-call-media: 'Przepraszamy, nie możemy nawiązać połączenia video, audio. Proszę kontaktować się za pomocą rozmowy tekstowej.'
 fallback_default_msg: 'Nasi konsultanci nie są teraz dostępni. Prosimy spróbować później.'
 #new FO v14
@@ -246,7 +246,7 @@ video_title: Video Push
 product_webcam_title: Product camera
 agent: Agent
 Click here to expand: Click here to expand
-No operator is available: The agent is not available
+No operator is available: Zostaw wiadomość
 Leave us a message: Leave us a message
 start a chat discussion: Start a text conversation
 start a video discussion: Start a video conversation
@@ -279,7 +279,7 @@ do_you_want_to_end_discussion: Do you want to end the conversation?
 you_are_seeing: You are seeing
 you_are_not_seeing: You are not seeing
 Co-browse session has ended: Co-browse session has ended.
-we are unavailable: We are unavailable.
+we are unavailable: Zostaw wiadomość
 #audio video access
 ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
 ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.

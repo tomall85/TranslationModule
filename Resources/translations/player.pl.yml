@@ -1,102 +1,102 @@
-fo_1: Wpisz swoją wiadomość tutaj...
-fo_2: Czy chcesz zakończyć rozmowę?
-fo_3: Tak
-fo_4: Nie
-fo_5: Wyślij
-fo_6: Imię
-fo_7: Nazwisko
-fo_8: Firma
-fo_9: E-mail
-fo_10: Telefon
-fo_11: Wiadomość
-fo_12: Przekaż nam swoją <b>opinię</b><br/>na temat tej rozmowy.
-fo_13: Czy poleciłbyś tą formę kontaktu innym?
-fo_14: Proszę podać adres e-mail
-fo_15: Zapis rozmowy został wysłany na e-mail
-fo_16: Rozmowa w trakcie
-fo_17: Proszę uzupełnić pole e-mail
-fo_18: Proszę uzupełnić pole telefon
-fo_19: Proszę uzupełnić pole Imię
-fo_20: Proszę uzupełnić pole Nazwisko
-fo_21: Proszę uzupełnić pole Firma
-fo_22: źle
-fo_23: słabo
-fo_24: Regularnie
-fo_25: dobrze
-fo_26: wspaniale
-fo_27: Niepoprawny e-mail
-fo_28: Pole wymagane
-fo_29: Ankieta wysłana
-fo_30: Przepraszamy, nie możemy w tej chwili odebrać telefonu. Proszę zostaw wiadomość.
-fo_31: Powrót do listy
-fo_32: Przepraszamy, nasi konsultanci są niedostępni
-fo_33: Proszę zostawić wiadomość
-fo_34: Wyślij i zamknij
-fo_35: Wróć do opinii
-fo_36: Czy masz jakieś sugestie?
-fo_37: Sesja współpracy otwarta
-fo_38: Zezwól
-fo_39: Odmów
-fo_40: Proszę wypełnić przynajmniej jedno z wyróżnionych pól.
-fo_41: Chciałbym przesłać Ci plik.
-fo_42: Plik zaakceptowano
-fo_43: Plik odrzucono
-fo_44: Zaakceptuj
-fo_45: Odmów
-fo_46: "Nie,dziekuję"
-fo_47: "Dziękujemy za kontakt."
-fo_48: "Czy chcesz zapis tej rozmowy?"
-fo_49: Wpisz proszę swój adres email lub numer telefonu.
-fo_50: Plik PDF
-fo_51: Plik Video
-fo_52: Kamera
-fo_53: Twój chat się zakończył.
-fo_54: Kliknij aby rozszerzyć.
-fo_55: Doradca jest niedostępny
-fo_56: Doradca
-fo_57: Przebieg sesji współpracy
-fo_58: Podczas jednoczesnego przeglądania, nasz konsultant widzi tylko to, co znajduje się na stronie internetowej. Konsultant nie widzi żadnych innych zakładek, stron oraz innych danych.
-fo_59: Łączę
-fo_60: Zamknij video
-fo_61: Prezentacja video
-fo_62: Rozpocznij chat
-fo_63: Rozpocznij połączenie video
-fo_64: Jesteśmy obecnie niedostępni.
-fo_65: Czy mogę aktywować Twój mikrofon? Będziesz mnie widzieć i słyszć ale ja nie będę Cię widział.
-fo_66: Czy mogę aktywować Twoją kamerę? Dzięki temu będziemy się widzieć i słyszeć.
-fo_67: Dostęp audio
-fo_68: Dostęp video
-fo_69: Odrzucono dostęp audio
-fo_70: Odrzucono dostęp video
-fo_71: Zezwól
-fo_72: Odmów
-fo_73: Uruchomić wspólne przegladanie?
-fo_74: Rozpoczęła się sesja wspólnego przeglądania
-fo_75: Zakończyła się sesja wspólnego przeglądania
-fo_76: Pozwolono na wspólne przeglądanie
-fo_77: Odmówiono wspólnego przeglądania
-fo_78: Wybierz opcję kontaktu
-fo_79: Nie martw się, nie będę Cię widział
-fo_80: Połączenie video
-fo_81: Chat
-fo_82: Zmęczony klikaniem?
-fo_83: Możemy również nawiązać połączenie video
-fo_84: Można mówić, jesteś widoczny
-fo_85: Można mówić, jesteś niewidoczny
-fo_86: Wpisz swoją wiadomość tutaj...
-fo_87: będzie dostępna w ciągu kilku sekund
-fo_88: Rozmowa audio zaakceptowana.
-fo_89: Rozmowa video zaakceptowana.
-fo_90: Rozmowa z 
-fo_91: Maksymalizuj
-fo_92: Rozłącz się
-fo_93: Wyłącz kamerę
-fo_94: Kamera jest włączona
-fo_95: Wyłącz mikrofon
-fo_96: Mój mikrofon jest włączony
-fo_97: Mój mikrofon jest wyłączony
-fo_98: Moja kamera jest włączona
-fo_99: Moja kamera jest wyłączona
+fo_1  : Wpisz swoją wiadomość tutaj...
+fo_2  : Czy chcesz zakończyć rozmowę?
+fo_3  : Tak
+fo_4  : Nie
+fo_5  : Wyślij
+fo_6  : Imię
+fo_7  : Nazwisko
+fo_8  : Firma
+fo_9  : E-mail
+fo_10 : Telefon
+fo_11 : Wiadomość
+fo_12 : Przekaż nam swoją <b>opinię</b><br/>na temat tej rozmowy.
+fo_13 : Czy poleciłbyś tą formę kontaktu innym?
+fo_14 : Proszę podać adres e-mail
+fo_15 : Zapis rozmowy został wysłany na e-mail
+fo_16 : Rozmowa w trakcie
+fo_17 : Proszę uzupełnić pole e-mail
+fo_18 : Proszę uzupełnić pole telefon
+fo_19 : Proszę uzupełnić pole Imię
+fo_20 : Proszę uzupełnić pole Nazwisko
+fo_21 : Proszę uzupełnić pole Firma
+fo_22 : źle
+fo_23 : słabo
+fo_24 : Regularnie
+fo_25 : dobrze
+fo_26 : wspaniale
+fo_27 : Niepoprawny e-mail
+fo_28 : Pole wymagane
+fo_29 : Ankieta wysłana
+fo_30 : Przepraszamy, nie możemy w tej chwili odebrać telefonu. Proszę zostaw wiadomość.
+fo_31 : Powrót do listy
+fo_32 : Przepraszamy, nasi konsultanci są niedostępni
+fo_33 : Proszę zostawić wiadomość
+fo_34 : Wyślij i zamknij
+fo_35 : Wróć do opinii
+fo_36 : Czy masz jakieś sugestie?
+fo_37 : Sesja współpracy otwarta
+fo_38 : Zezwól
+fo_39 : Odmów
+fo_40 : Proszę wypełnić przynajmniej jedno z wyróżnionych pól.
+fo_41 : Chciałbym przesłać Ci plik.
+fo_42 : Plik zaakceptowano
+fo_43 : Plik odrzucono
+fo_44 : Zaakceptuj
+fo_45 : Odmów
+fo_46 : "Nie,dziekuję"
+fo_47 : "Dziękujemy za kontakt."
+fo_48 : "Czy chcesz zapis tej rozmowy?"
+fo_49 : Wpisz proszę swój adres email lub numer telefonu.
+fo_50 : Plik PDF
+fo_51 : Plik Video
+fo_52 : Kamera
+fo_53 : Twój chat się zakończył.
+fo_54 : Kliknij aby rozszerzyć.
+fo_55 : Doradca jest niedostępny
+fo_56 : Doradca
+fo_57 : Przebieg sesji współpracy
+fo_58 : Podczas jednoczesnego przeglądania, nasz konsultant widzi tylko to, co znajduje się na stronie internetowej. Konsultant nie widzi żadnych innych zakładek, stron oraz innych danych.
+fo_59 : Łączę
+fo_60 : Zamknij video
+fo_61 : Prezentacja video
+fo_62 : Rozpocznij chat
+fo_63 : Rozpocznij połączenie video
+fo_64 : Jesteśmy obecnie niedostępni.
+fo_65 : Czy mogę aktywować Twój mikrofon? Będziesz mnie widzieć i słyszć ale ja nie będę Cię widział.
+fo_66 : Czy mogę aktywować Twoją kamerę? Dzięki temu będziemy się widzieć i słyszeć.
+fo_67 : Dostęp audio
+fo_68 : Dostęp video
+fo_69 : Odrzucono dostęp audio
+fo_70 : Odrzucono dostęp video
+fo_71 : Zezwól
+fo_72 : Odmów
+fo_73 : Uruchomić wspólne przegladanie?
+fo_74 : Rozpoczęła się sesja wspólnego przeglądania
+fo_75 : Zakończyła się sesja wspólnego przeglądania
+fo_76 : Pozwolono na wspólne przeglądanie
+fo_77 : Odmówiono wspólnego przeglądania
+fo_78 : Wybierz opcję kontaktu
+fo_79 : Nie martw się, nie będę Cię widział
+fo_80 : Połączenie video
+fo_81 : Chat
+fo_82 : Zmęczony klikaniem?
+fo_83 : Możemy również nawiązać połączenie video
+fo_84 : Można mówić, jesteś widoczny
+fo_85 : Można mówić, jesteś niewidoczny
+fo_86 : Wpisz swoją wiadomość tutaj...
+fo_87 : będzie dostępna w ciągu kilku sekund
+fo_88 : Rozmowa audio zaakceptowana.
+fo_89 : Rozmowa video zaakceptowana.
+fo_90 : Rozmowa z 
+fo_91 : Maksymalizuj
+fo_92 : Rozłącz się
+fo_93 : Wyłącz kamerę
+fo_94 : Kamera jest włączona
+fo_95 : Wyłącz mikrofon
+fo_96 : Mój mikrofon jest włączony
+fo_97 : Mój mikrofon jest wyłączony
+fo_98 : Moja kamera jest włączona
+fo_99 : Moja kamera jest wyłączona
 fo_100: Widzisz
 fo_101: Nie widzisz
 fo_102: Mikrofon jest włączony
@@ -159,7 +159,7 @@ fo_158: Klikając “Pozwól”, doradca będzie mógł Cię zobaczyć i usłysz
 fo_159: Klikając “Pozwól”, doradca będzie mógł Cię usłyszeć.
 fo_160: Zakończyła się sesja wspólnego przeglądania.
 fo_161: Kliknij “Pozwól”
-fo_162: Będę dostępny za chwilkę. Poczekaj prosze aż uruchomi się chat.
+fo_162: Łączę z konsultantem. Poczekaj prosze aż uruchomi się chat.
 fo_163: Twój chat się zakończył.
 fo_164: Doradca Cię widzi ale nie może Cię usłyszeć.
 fo_165: Czy ta rozmowa była pomocna?
